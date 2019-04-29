@@ -10,7 +10,8 @@ for (let i=0; i<25; i++){
 }
 
 function whileLoop(Number){
-while (countdown > 0){
+while (10 > 0){
   console.log(--countdown);
 }
+return "done."
 }
